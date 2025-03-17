@@ -10,7 +10,7 @@ Este repositório contém um exemplo de análise de sentimentos usando o Azure A
 1. Criei um recurso no Azure AI Language Studio.
 2. Utilizei o modelo pré-treinado para análise de sentimentos.
 3. Inseri as sentenças do arquivo `sentencas.txt` no Language Studio.
-4. Obtenha os resultados de sentimentos (positivo, negativo, neutro) e pontuações de confiança.
+4. Obtive os resultados de sentimentos (positivo, negativo, neutro) e pontuações de confiança.
 
 ## Insights
 - O modelo identificou corretamente as sentenças positivas e negativas.
