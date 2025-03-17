@@ -14,7 +14,7 @@ Este repositório contém um exemplo de análise de sentimentos usando o Azure A
 
 ## Insights
 - O modelo identificou corretamente as sentenças positivas e negativas.
-- Sentenças ambíguas, como "A entrega foi rápida, mas o produto não era o que eu esperava", foram classificadas como neutras.
+- Sentenças ambíguas, como "A entrega foi rápida, mas o produto não era o que eu esperava", foram classificadas como negativas.
 - A pontuação de confiança ajuda a entender a certeza do modelo em cada análise.
 
 ## Possibilidades
@@ -23,3 +23,11 @@ Este repositório contém um exemplo de análise de sentimentos usando o Azure A
 - Melhorar o modelo com dados específicos do domínio para maior precisão.
 
 ## Prints do Processo
+![image](https://github.com/user-attachments/assets/a7d1128c-4523-4c83-9898-93dbf3351885)
+![image](https://github.com/user-attachments/assets/388f2081-a965-42d3-95f6-5ecc0b0bd8e7)
+![image](https://github.com/user-attachments/assets/b1806940-e8df-4e29-a98c-7a50e9e71911)
+![image](https://github.com/user-attachments/assets/4fffbf90-aa59-4875-b338-910b28810e15)
+![image](https://github.com/user-attachments/assets/327c6661-d715-4089-bb9b-e22689f04235)
+![image](https://github.com/user-attachments/assets/c4ab1cf8-9673-4ada-a471-d8efa005ff31)
+
+
